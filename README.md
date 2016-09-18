@@ -1,12 +1,14 @@
-!!!AFTER INSTALLATION PLEASE CHANGE THE 'AUTH.JSON' FILE!!!
+!!!AFTER INSTALLATION PLEASE CHANGE THE 'AUTH.JSON' FILE!!!          
 
 ***OSES***
 
 
-Windows - (https://github.com/dudeisbrendan03/EasyAwesomeBotInstaller/tree/windows "Click here")
-Linux - (https://github.com/dudeisbrendan03/EasyAwesomeBotInstaller/tree/linux "Click here")
+Windows - (https://github.com/dudeisbrendan03/EasyAwesomeBotInstaller/tree/windows)                
+
+Linux - (https://github.com/dudeisbrendan03/EasyAwesomeBotInstaller/tree/linux)
 
 
-***REQUIRED***
+***REQUIRED***             
+
 Node(JS)/NPM
 Git
