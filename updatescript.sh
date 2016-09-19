@@ -1,5 +1,8 @@
 
 echo 'Please wait'
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n 5.1.1
 cd ~/AwesomeBot
 mkdir ../AwsBotUpdated
 cd ../AwsBotUpdated
