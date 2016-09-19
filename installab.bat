@@ -1,4 +1,6 @@
 echo 'Preparing for install'
+nvm-setup.exe
+nvm install 5.1.1
 mkdir %UserProfile%\Documents\AwesomeBot
 cd %UserProfile%\Documents\AwesomeBot
 git clone https://github.com/BitQuote/AwesomeBot.git
